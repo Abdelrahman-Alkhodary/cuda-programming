@@ -1,0 +1,1 @@
+This repo will contain some notes and codes in my journey of learning CUDA programming 
